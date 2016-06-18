@@ -1,0 +1,1 @@
+This is DBA Scripts for Oracle that scrap in [ORACLE-BASE](https://oracle-base.com/dba/scripts)
